@@ -1,9 +1,17 @@
 # 💫 About Me:
 👋 Hi, I’m John Client Igot,<br>
 🎓 Graduated with the course of <b>Bachelor of Science in Information Systems</b><br>
-👀 I’m interested in programming (PHP, MySQL, HTML5, CSS3(Bootstrap/Tailwind),  JavaScript, Python, Typescript(React), C/C++, Java)<br>
-🌱 I’m currently learning all of the tech stacks mentioned above<br>
+👀 I’m interested in making WebApp, Deployments, and SRE things.<br>
 💞️ I am seeking opportunities to enhance my coding skills and expand my knowledge by learning new technologies and development practices.<br>
+🛠️ DevOps tools (Have knowledge and still learning).
+- Linux
+- Git
+- Splunk
+- Jenkins
+- Kubernetes
+- Docker
+- Prometheus/Grafana
+- Terraform
 
 
 ## 🌐 Socials:
