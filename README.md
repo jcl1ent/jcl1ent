@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m John Client Igot,<br>🎓 Graduated with the course of Bachelor of Science in Information Systems<br>👀 I’m interested in making WebApp, Deployments, and SRE things.<br>💞️ I am seeking opportunities to enhance my coding skills and expand my knowledge by learning new technologies and development practices.<br>🛠️ DevOps tools (Have knowledge and still learning).<br>* Linux<br>* Git<br>* Splunk<br>* Jenkins<br>* Kubernetes<br>* Docker<br>* Prometheus/Grafana<br>* Terraform
+👋 Hi, I’m John Client Igot,<br>🎓 Graduated with the course of Bachelor of Science in Information Systems<br>👀 I’m interested in making WebApp, Deployments, and SRE things.<br>💞️ I am seeking opportunities to enhance my coding skills and expand my knowledge by learning new technologies and development practices.<br>🛠️ DevOps tools.<br>* Linux<br>* Git<br>* Splunk<br>* Jenkins<br>* Kubernetes<br>* Docker<br>* Prometheus/Grafana<br>* Terraform
 
 
 ## 🌐 Socials:
